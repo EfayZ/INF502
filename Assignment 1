@@ -1,1 +1,6 @@
-
+```
+import math
+def pythagoreanTheorem(length_a, length_b):
+    length_hypotenuse = math.sqrt((length_a**2) + (length_b**2))
+    print(length_hypotenuse)
+```
